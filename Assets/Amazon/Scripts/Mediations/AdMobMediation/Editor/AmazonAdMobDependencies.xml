@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+  <androidPackages>
+     <androidPackage spec="com.amazon.android:aps-admob-adapter:2.0.3">
+         <repositories>
+             <repository>https://aws.oss.sonatype.org/content/repositories/releases/</repository>
+         </repositories>
+     </androidPackage>
+  </androidPackages>
+  <iosPods>
+    <iosPod name="AmazonPublisherServicesAdMobAdapter" version="~> 2.2.2"/>
+  </iosPods>
+</dependencies>
