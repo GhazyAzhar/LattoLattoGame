@@ -1,0 +1,6 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+com.playcastle.lattolatto.coin80,published,managed_by_android,false,en_US;80 Coins;Reward players 80 coins,false,,4637806577977452727
+com.playcastle.lattolatto.coin30,published,managed_by_android,false,en_US;30 Coins;Reward players 30 Coins,false,,4635229626724346922
+com.playcastle.lattolatto.coin155,published,managed_by_android,false,en_US;155 Coins;Reward players 155 Coins,false,,4636140274849253964
+com.playcastle.lattolatto.coin500,published,managed_by_android,false,en_US;500 Coins;Reward players 500 Coins,false,,4638363797231685482
+com.playcastle.lattolatto.coin1075,published,managed_by_android,false,en_US; 1075 Coins;Reward players 1075 Coins,false,,4636110634678102344
